@@ -1,0 +1,28 @@
+/**
+ * Reset and font styles
+ */
+
+*, *:before, *:after {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	color: $secondary;
+	position: relative;
+	max-width: $container-width;
+	height: 100%;
+	width: 100%;
+	margin: auto;
+	padding: 10% 2rem;
+}
+
+a {
+	color: inherit;
+	transition: all 200ms ease-in-out;
+}
+
+.sr-only {
+	@include screenreader-only;
+}

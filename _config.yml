@@ -1,0 +1,18 @@
+# Site settings
+title: Bradley Rosenfeld
+email: thatguy@bradleyrosenfeld.com
+description: I'm a computer scientist who believes that pixels are people too
+baseurl: ""
+url: "https://bradleyrosenfeld.com"
+
+# Plugins
+gems:
+  - octopress-minify-html
+
+# Build settings
+markdown: kramdown
+sass:
+    style: compressed
+minify_html: true
+
+# Custom settings

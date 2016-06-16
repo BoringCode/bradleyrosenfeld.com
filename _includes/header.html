@@ -1,0 +1,19 @@
+<header class="site-header">
+  <h1 class="site-title">
+    <a href="/">
+      <span class="title-text">{{ site.title }}</span>
+    </a>
+  </h1>
+  <nav class="site-navigation">
+    <ul>
+      {% assign pages = site.html_pages | sort: 'nav_order' %}
+      {% for p in pages %}
+        {% if p.nav_order %}
+          <li {% if p.url == page.url %}class="active"{% endif %}>
+            <a href="{{ p.url }}">{{ p.title }}</a>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </nav>
+</header>
