@@ -27,3 +27,13 @@
         margin-top: 0;
     }
 }
+
+@mixin link($link, $color) {
+	a[href*=#{$link}] {
+		color: $color;
+
+		&:hover {
+			color: darken($color, 20%);
+		}
+	}
+}
