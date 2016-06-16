@@ -8,6 +8,7 @@ url: "https://bradleyrosenfeld.com"
 # Plugins
 gems:
   - octopress-minify-html
+  - octopress-autoprefixer
 
 # Build settings
 markdown: kramdown

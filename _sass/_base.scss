@@ -15,14 +15,19 @@ body {
 	height: 100%;
 	width: 100%;
 	margin: auto;
-	padding: 10% 2rem;
+	padding: 8% 2rem;
 }
 
 a {
 	color: inherit;
-	transition: all 200ms ease-in-out;
+	@include transition(all);
 }
 
 .sr-only {
 	@include screenreader-only;
+}
+
+::selection {
+	background: $primary;
+	color: white;
 }

@@ -1,7 +1,7 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: default
+title: Portfolio
+permalink: /work/
 nav_order: 2
 ---
 

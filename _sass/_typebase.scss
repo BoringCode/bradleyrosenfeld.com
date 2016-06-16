@@ -68,7 +68,8 @@ h6 {
     margin-bottom: 0;
     line-height: $leading;
     font-style: normal;
-    font-weight: 700;
+    font-weight: 300;
+    text-transform: uppercase;
 }
 h1 {
     font-size: 3 * $scale * 1rem;
