@@ -21,6 +21,10 @@ body {
 a {
 	color: inherit;
 	@include transition(all);
+
+	&:hover {
+		color: lighten($secondary, 20%);
+	}
 }
 
 .sr-only {
@@ -30,4 +34,14 @@ a {
 ::selection {
 	background: $primary;
 	color: white;
+}
+
+code {
+	display: inline-block;
+	vertical-align: baseline;
+	font-family: inherit;
+	background: lighten($secondary, 50%);
+	padding: 0 0.2rem;
+	border-radius: 0.2rem;
+	font-size: 0.8rem;
 }

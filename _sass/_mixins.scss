@@ -29,11 +29,11 @@
 }
 
 @mixin link($link, $color) {
-	a[href*=#{$link}] {
+	a[href*='#{$link}'] {
 		color: $color;
 
 		&:hover {
-			color: darken($color, 20%);
+			color: lighten($color, 20%);
 		}
 	}
 }

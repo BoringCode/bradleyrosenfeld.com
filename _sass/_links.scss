@@ -1,8 +1,11 @@
+// Custom link colors based upon the domain
 
-@include link("facebook", #3b5998);
+@include link("facebook.com", #3b5998);
 
-@include link("twitter", #55acee);
+@include link("twitter.com", #55acee);
 
-@include link("linkedin", #0077b5);
+@include link("linkedin.com", #0077b5);
 
 @include link("mailto", #febe12);
+
+@include link("taylor.edu", #5A3358);
