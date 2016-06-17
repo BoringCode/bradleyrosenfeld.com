@@ -34,8 +34,8 @@
     Each game has a different set of rules and lacks a standardized way for students to evaulate their performance against other players. 
     The Game Contest Server seeks to solve the problems posed by the original, unstandardized system. It is an interactive, web-based manager for automated turn-based game contests.
     
-    I worked with a team of students on this application as our senior project. My main role was to develop a replay system so that students could replay the moves that their players made during each match.
+      I worked with a team of students on this application as our senior project. My main role was to develop a replay system so that students could replay the moves that their players made during each match.
     This required building a logging system with a simple TCP protocol and then building a rendering system using WebGL in the browser.
 
-    At the end of our senior project, we gave [in-depth presentation](/assets/pdfs/senior-project-final-presentation-slides.pdf). I also created a [poster](/assets/pdfs/senior-project-poster.pdf) further describing my role in the project.
+      At the end of our senior project, we gave [in-depth presentation](/assets/pdfs/senior-project-final-presentation-slides.pdf). I also created a [poster](/assets/pdfs/senior-project-poster.pdf) further describing my role in the project.
   github: https://github.com/BoringCode/game-contest-server
