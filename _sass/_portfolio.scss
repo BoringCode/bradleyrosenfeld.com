@@ -1,0 +1,13 @@
+.primary-url {
+	display: inline-block;
+	vertical-align: baseline;
+	font-size: 1.2rem;
+	@include leading(1.5, true);
+}
+
+.secondary-url {
+	display: inline-block;
+	vertical-align: baseline;
+	text-transform: uppercase;
+	font-size: 0.8rem;
+}

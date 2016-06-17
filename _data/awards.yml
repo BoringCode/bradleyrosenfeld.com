@@ -1,0 +1,34 @@
+- name: Outstanding Systems Graduate
+  issuer: Taylor University Computer Science &amp; Engineering Department
+  issuer_url: http://cse.taylor.edu
+  year: 2016
+  description: |-
+    I received recognition from the Computer Science and Engineering department at Taylor University for being the Outstanding Systems Graduate. 
+    This award is given to a student who best exemplifies what the Systems program is trying to teach through their outstanding class and project work.
+- name: 3rd Place BVU CTF
+  issuer: Buena Vista University
+  issuer_url: https://bvu.edu
+  year: 2016
+  description: |-
+    We finished in third place in Buena Vista University's fourth annual capture the flag contest. This contest pushed our team to find, exploit, and fix vulnerabilities found in 5 applications running on our server. 
+    I was the lead in a group of four computer science students. We competed against several other schools and came out on top.
+- name: Outstanding Performance NSA CyberSpring Competition
+  issuer: National Security Agency
+  issuer_url: https://nsa.gov
+  year: 2015
+  description: I competed in a live capture-the-flag hacking competition and placed in the top 30 out of 160+ competitors.
+- name: 1st Place BVU CTF
+  issuer: Buena Vista University
+  issuer_url: https://bvu.edu
+  year: 2015
+  description: |-
+    We finished in first place in Buena Vista University's 3rd annual capture the flag contest. This contest pushed our team to find, exploit, and fix vulnerabilities found in 5 applications running on our server. 
+    I was the lead in a group of four computer science students. We competed against several other schools and came out on top.
+- name: 3rd Place Illinois State FIRST Lego League Championship
+  issuer: FIRST Illinois Robotics
+  issuer_url: http://www.ilfirst.org/fll.html
+  year: 2008
+  description: |-
+    I was a member of 'got robot?', an award winning FIRST Lego League robotics team that competed at state and national levels.
+
+
