@@ -2,19 +2,6 @@
 /* Modified by Bradley Rosenfeld */
 
 
-
-/* 
- * Calculate leading based upon multiplier
- */
-@mixin leading($multiplier: 1, $hug: false) {
-    line-height: $multiplier * $leading;
-    @if $hug == false { 
-        margin-top: $multiplier * $leading; 
-    } @else {
-        margin-top: 0;
-    }
-}
-
 /* Setup */
 html {
     /* Change default typefaces here */
