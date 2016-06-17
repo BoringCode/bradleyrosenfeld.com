@@ -6,17 +6,17 @@
 
 @charset "utf-8";
 
-@import 'variables';
+@import "variables";
 
 // Mixins
-@import 'mixins';
+@import "mixins";
 
 // Base styles and resets
-@import 'typebase';
-@import 'base';
+@import "typebase";
+@import "base";
 
 // Components
-@import 'header';
-@import 'footer';
-@import 'links';
-@import 'portfolio';
+@import "header";
+@import "footer";
+@import "links";
+@import "portfolio";

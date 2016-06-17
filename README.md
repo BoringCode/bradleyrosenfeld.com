@@ -11,7 +11,6 @@ This is my personal site. I used to host it using [GitHub pages](https://github.
 
 ## Setup
 
-
 Install dependencies. 
 ```bash
 bundle

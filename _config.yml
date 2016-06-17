@@ -15,5 +15,7 @@ markdown: kramdown
 sass:
     style: compressed
 minify_html: true
-
-# Custom settings
+exclude: 
+  - Gemfile
+  - Gemfile.lock
+  - README.md
