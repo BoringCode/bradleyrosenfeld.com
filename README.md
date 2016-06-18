@@ -7,7 +7,8 @@ This is my personal site. I used to host it using [GitHub pages](https://github.
 ## Requirements
 
 - Ruby
-- Jekyll
+- RubyGems
+- Bundler
 
 ## Setup
 
