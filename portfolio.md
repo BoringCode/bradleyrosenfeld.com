@@ -5,7 +5,7 @@ permalink: /portfolio/
 nav_order: 2
 ---
 
-I've made some pretty cool things. I've worked as a full-stack web developer and I've competed in a variety of capture the flag hacking competitions. I like to think laterally and my experience allows me to do that. Check out [my resume](/assets/pdfs/bradleyrosenfeld-resume.pdf) for a full list of my experience and education.
+I like to build some pretty cool things. I've worked as a full-stack web developer and I've competed in a variety of capture the flag hacking competitions. I like to think laterally and my background allows me to approach a wide variety of problems. Although my interests are varied, I tend to gravitate towards the web. In fact I've been building websites since high-school. Building user interfaces and connecting everything together with a solid backend application is always a fun challenge. I'm comfortable in everything from WordPress down to bare-metal C++. Check out [my resume](/assets/pdfs/bradleyrosenfeld-resume.pdf) for a full list of my experience and education.
 
 ## Projects
 
