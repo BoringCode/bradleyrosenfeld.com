@@ -21,3 +21,7 @@ Build the site
 ```bash
 jekyll build
 ```
+
+-----------------------------
+
+&copy; 2016 Bradley Rosenfeld
