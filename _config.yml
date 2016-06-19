@@ -19,3 +19,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+
+ga-id: "UA-39603531-1424"
