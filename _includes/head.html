@@ -6,8 +6,8 @@
   <title>{% if page.title and page.url != '/' %}{{ page.title | escape }} &ndash; {% endif %}{{ site.title | escape }}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-  <link href="https://fonts.googleapis.com/css?family=Gentium+Book+Basic|Open+Sans+Condensed:300,700" rel="stylesheet">
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <link href="https://fonts.googleapis.com/css?family=Gentium+Book+Basic:400,400i,700|Open+Sans+Condensed:300,700" rel="stylesheet">
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}?{{ site.time | date: '%Y%m%d%U%H%N%S' }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
   {% include icons.html %}

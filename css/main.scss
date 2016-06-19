@@ -2,7 +2,7 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-/*! {{ site.url }} | how are you doing today stranger? */
+/*! {{ site.url }} | Built at: {{ site.time | date: '%m/%d/%Y %H:%M:%S' }} | How are you doing today stranger? */
 
 @charset "utf-8";
 
