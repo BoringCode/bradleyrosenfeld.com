@@ -40,7 +40,7 @@
 
 @mixin cache-warning($selector, $custom: false) {
     @if $custom == false {
-        #{$selector} + div .cache-warning { display: block; }
+        #{$selector} ~ div .cache-warning { display: block; }
     } @else {
         #{$selector} { display: block; }
     }
