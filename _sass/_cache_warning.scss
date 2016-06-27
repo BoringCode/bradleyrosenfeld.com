@@ -9,4 +9,4 @@ a.cache-warning {
 }
 
 @include cache-warning("#google-cache-hdr");
-@include cache-warning("#wm-ipp");
+@include cache-warning("#wm-ipp + .cache-warning", true);

@@ -38,8 +38,10 @@
 	}
 }
 
-@mixin cache-warning($selector) {
-    #{$selector} + div .site-warning {
-        display: block;
+@mixin cache-warning($selector, $custom: false) {
+    @if $custom == false {
+        #{$selector} + div .cache-warning { display: block; }
+    } @else {
+        #{$selector} { display: block; }
     }
 }
