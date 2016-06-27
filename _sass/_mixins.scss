@@ -37,3 +37,9 @@
 		}
 	}
 }
+
+@mixin cache-warning($selector) {
+    #{$selector} + div .site-warning {
+        display: block;
+    }
+}

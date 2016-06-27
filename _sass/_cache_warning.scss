@@ -1,0 +1,12 @@
+a.cache-warning {
+    display: none;
+    background: $primary;
+    color: white;
+    text-decoration: none;
+    padding: 0.8rem;
+    margin: 2rem 0;
+    font-size: 1.1rem;
+}
+
+@include cache-warning("#google-cache-hdr");
+@include cache-warning("#wm-ipp");
