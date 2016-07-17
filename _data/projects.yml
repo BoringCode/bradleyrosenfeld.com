@@ -8,6 +8,11 @@
     I worked with a team of students to develop this application in a class at [Taylor University](http://taylor.edu). 
     We implemented it with [Flask](http://flask.pocoo.org) from a system requirements specification that we presented in a prior class.
   github: https://github.com/BoringCode/scripture-engagement-platform
+- name: jadsh
+  description: |-
+    jadsh (Just Another Dumb SHell) is an experiment in building a really dumb, slow shell in Python. 
+    It has zero dependancies and is built entirely using Python stdlib and ANSI escape sequences.
+  github: https://github.com/BoringCode/jadsh
 - name: JSPhotoBooth
   description: |-
     Detects faces and draws cool props on them using JavaScript in the browser. 
