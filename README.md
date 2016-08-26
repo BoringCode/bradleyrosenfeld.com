@@ -2,7 +2,7 @@
 
 > I'm a computer scientist who believes that pixels are people too
 
-This is my personal site. I used to host it using [GitHub pages](https://github.com/BoringCode/boringcode.github.com). But I'm now hosting it as a static site on a VPS.
+This is my personal site. It's hosted as a static site on a VPS.
 
 ## Requirements
 
