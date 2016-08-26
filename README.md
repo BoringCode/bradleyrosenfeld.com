@@ -2,7 +2,9 @@
 
 > I'm a computer scientist who believes that pixels are people too
 
-This is my personal site. It's hosted as a static site on a VPS.
+This is my personal site. It's hosted as a static site on a VPS. 
+
+This repo is a mirror of the github repo
 
 ## Requirements
 
