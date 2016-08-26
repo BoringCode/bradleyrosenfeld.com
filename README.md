@@ -4,8 +4,6 @@
 
 This is my personal site. It's hosted as a static site on a VPS. 
 
-This repo is a mirror of the github repo
-
 ## Requirements
 
 - Ruby
