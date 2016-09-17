@@ -12,7 +12,7 @@
   description: |-
     We finished in third place in Buena Vista University's fourth annual capture the flag contest. This contest pushed our team to find, exploit, and fix vulnerabilities found in 5 applications running on our server. 
     I was the lead in a group of four computer science students. We competed against several other schools and came out on top.
-- name: Outstanding Performance NSA CyberSpring Competition
+- name: Outstanding Performance NSA CyberSprint Competition
   issuer: National Security Agency
   issuer_url: https://www.nsa.gov/
   year: 2015
