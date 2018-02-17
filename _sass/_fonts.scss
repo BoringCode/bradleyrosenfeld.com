@@ -1,0 +1,12 @@
+/* gentium-book-basic-regular - latin */
+
+$gentium: "Gentium Book Basic";
+$gentium-base: "/assets/fonts/gentium/gentium-book-basic-v8-latin-";
+@include font-face($gentium, $gentium, $gentium-base + "regular", 400, normal, woff2 woff);
+@include font-face($gentium, $gentium + " Italic", $gentium-base + "italic", 400, italic, woff2 woff);
+@include font-face($gentium, $gentium + " Bold", $gentium-base + "700", 700, normal, woff2 woff);
+
+$open-sans: "Open Sans Condensed";
+$open-sans-base: "/assets/fonts/open-sans-condensed/open-sans-condensed-v12-latin-";
+@include font-face($open-sans, $open-sans + " Light", $open-sans-base + "300", 300, normal, woff2 woff);
+@include font-face($open-sans, $open-sans + " Bold", $open-sans-base + "700", 700, normal, woff2 woff);
