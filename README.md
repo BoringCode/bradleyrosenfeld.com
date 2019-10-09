@@ -22,7 +22,7 @@ Build the site
 ```bash
 jekyll build
 ```
-
+i
 -----------------------------
 
-&copy; 2016 Bradley Rosenfeld
+&copy; 2019 Bradley Rosenfeld
