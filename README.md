@@ -5,10 +5,11 @@
 This is my personal site. It's hosted as a static site on a VPS. 
 
 ## Requirements
-
+i
 - Ruby
 - RubyGems
 - Bundler
+- node.js
 
 ## Setup
 

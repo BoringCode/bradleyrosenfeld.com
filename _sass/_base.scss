@@ -17,6 +17,11 @@ body {
 	width: 100%;
 	margin: auto;
 	padding: 8% 2rem;
+
+    @media (prefers-color-scheme: dark) {
+        background: $background-dark;
+        color: $secondary-dark;
+    }
 }
 
 a {
@@ -25,7 +30,11 @@ a {
 
 	&:hover {
 		color: lighten($secondary, 20%);
+        @media (prefers-color-scheme: dark) {
+            color: darken($secondary-dark, 20%);
+        }
 	}
+ 
 }
 
 .sr-only {
@@ -51,4 +60,8 @@ code {
 	padding: 0 0.2rem;
 	border-radius: 0.2rem;
 	font-size: 0.8rem;
+
+    @media (prefers-color-scheme: dark) {
+        background: lighten($background-dark, 30%);
+    }
 }
