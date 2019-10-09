@@ -5,7 +5,7 @@
 This is my personal site. It's hosted as a static site on a VPS. 
 
 ## Requirements
-i
+
 - Ruby
 - RubyGems
 - Bundler
@@ -22,7 +22,7 @@ Build the site
 ```bash
 jekyll build
 ```
-i
+
 -----------------------------
 
 &copy; 2019 Bradley Rosenfeld
