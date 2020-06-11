@@ -8,5 +8,5 @@ a.cache-warning {
     font-size: 1.1rem;
 }
 
-@include cache-warning("#google-cache-hdr");
+@include cache-warning("div[id$='__google-cache-hdr']");
 @include cache-warning("#wm-ipp ~ .cache-warning", true);
